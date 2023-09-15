@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! My name is Jacob Brown
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**jbrown2002/jbrown2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a senior Data Analytics major at Denison University, and I plan to graduate with a Bachelor of Science within Data Analytics with a concentration in Psychology.
 
-Here are some ideas to get you started:
+This past summer, I worked at United States Track and Field within their Merchandise department. My main focus was researching past customer data in hopes of creating strong marketing plans going into the next fiscal year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are:
+
+🏈 Sports 🏀
+🎸 Music 🥁
+🐶 Animals 🐮
+
+Fun Fact: I went skydiving this summer!
+
+Linkedin: https://www.linkedin.com/in/jacob-brown-b37794238/
