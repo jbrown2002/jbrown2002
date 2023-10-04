@@ -11,6 +11,6 @@ My interests are:
 🎸 Music 🥁
 🐶 Animals 🐮
 
-Fun Fact: I went skydiving this summer!
+Fun Fact: I have been skydiving!
 
 Linkedin: https://www.linkedin.com/in/jacob-brown-b37794238/
